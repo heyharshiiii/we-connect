@@ -1,6 +1,6 @@
 
   <p align="center">
-<img src="https://img.freepik.com/free-vector/business-coworkers-with-office-supplies_18591-51570.jpg?w=740&t=st=1706513037~exp=1706513637~hmac=860944d8daf9c55a3b0d9699990be22188c8bc4bd48bf621d303729d9e84b76f" align ="center" height="100" width="100" >
+<img src="https://img.freepik.com/free-vector/business-coworkers-with-office-supplies_18591-51570.jpg?w=740&t=st=1706513037~exp=1706513637~hmac=860944d8daf9c55a3b0d9699990be22188c8bc4bd48bf621d303729d9e84b76f" align ="center" height="200" width="200" >
   </p>
 <h1 align="center">WE-CONNECT 💫</h1>
 
